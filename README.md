@@ -1,4 +1,6 @@
 # Game-os
+
+# BIG NOTE THIS IS NOT GOING TO UPDATED ANYMORE! BECAUSE AM MAKING GAME OS 2
 This is a Roblox Game
 
 
