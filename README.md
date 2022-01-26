@@ -1,7 +1,6 @@
 # Game-os
 
-# BIG NOTE THIS IS NOT GOING TO UPDATED ANYMORE! BECAUSE AM MAKING GAME OS 2
-This is a Roblox Game
+> :warning: This is not support anymore because am making Game os 2
 
 
 This roblox game is like a os is like Windows
